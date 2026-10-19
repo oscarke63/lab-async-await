@@ -1,0 +1,7 @@
+body { font-family: sans-serif; max-width: 700px; margin: 2rem auto; padding: 0 1rem; }
+#post-list { list-style: none; padding: 0; }
+.post { border: 1px solid #ccc; border-radius: 6px; padding: 1rem; margin-bottom: 1rem; }
+.site-title { font-size: 2rem; font-weight: bold; margin-bottom: 1rem; }
+.post h1 { margin: 0 0 .5rem; font-size: 1.1rem; text-transform: capitalize; }
+.post p { margin: 0; }
+.error { color: #b00020; }
